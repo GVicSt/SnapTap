@@ -12,4 +12,4 @@ python snaptap.py
 ```
 
 ## Credits
-[ErkinKraft](https://github.com/ErkinKraft/SnapTap)
+[ErkinKraft/SnapTap](https://github.com/ErkinKraft/SnapTap)
